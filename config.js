@@ -15,7 +15,7 @@ global.__filename = function filename(pathURL = import.meta.url, rmPrefix = plat
 const __dirname = global.__dirname(import.meta.url)
 
 global.owner = [
-['5493873687620', '✨ YartexBot-MD', true],
+['5493873687620', '✨ SEBASTIANBOT-MD', true],
 ['593968263524'],
 ['5214434703586'],
 ['595976126756'],
@@ -34,19 +34,19 @@ global.prems = []
 
 global.isdev = [['542215034412'], ['593968263524'], ['573012482597'], ['5492215034412'], ['5214434703586'], ['595976126756'], ['573012482597']]
  
-global.packname = 'ʏᴀʀᴛᴇx ʙᴏᴛ ᴍᴅ ✨'
+global.packname = 'SEBASTIAN BOT MD ✨'
 global.author = 'ɢᴀᴛᴀ ᴅɪᴏs 🫶'
-global.wm = 'ʏᴀʀᴛᴇx ʙᴏᴛ ᴍᴅ | ɢᴀᴛᴀ ᴅɪᴏs 🫶'
-global.wm2 = '                   ʏᴀʀᴛᴇx ʙᴏᴛ ᴍᴅ ✨\n> *♡º°‘¨ һᥱᥴһ᥆ ⍴᥆r 𝖿ᥲᥒs ⍴ᥲrᥲ 𝖿ᥲᥒs ¨‘°º♡*'
-global.des = 'һᥱᥴһ᥆ ⍴᥆r 𝖿ᥲᥒs ⍴ᥲrᥲ 𝖿ᥲᥒs.'
+global.wm = 'SEBASTIAN BOT MD | GATA DIOS '
+global.wm2 = '                   SEBASTIAN BOT MD ✨\n> *♡º°‘¨ DipperGabo ¨‘°º♡*'
+global.des = 'los amo.'
 
 global.vs = 'V2'
 global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
-global.dev = 'GataNina-Li'
-global.devnum = '+593 96 826 3524'
+global.dev = 'sebastian'
+global.devnum = '+57 3176932478'
  
 global.dis = ':⁖֟⊱┈֟፝❥ '
 global.cen1 = '✧──⭒─⊹ '
@@ -86,14 +86,14 @@ global.yartexVid = [botVid1, botVid2, botVid3, botVid4, botVid5, botVid6, botVid
 
 global.yartexNavidad = ['https://qu.ax/UsZaq.png', 'https://qu.ax/rGvHH.png', 'https://qu.ax/vyHLe.png', 'https://qu.ax/pSeNy.jpg', 'https://qu.ax/xSOyA.jpg', 'https://qu.ax/hjNwc.jpg', 'https://qu.ax/yKVhD.jpg']
   
-global.yt = 'https://youtube.com/@gatadios'
-global.ig = 'https://instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/YartexBot-MD'
-global.paypal = 'https://paypal.me/OficialGD'
-global.git = 'https://github.com/GataNina-Li'
-global.email = 'theyartexbot@gmail.com'
-global.group = 'https://chat.whatsapp.com/EfWlxyVXlZ7AWVJ6sjJvyI' //Grupo ofc
-global.channel = 'https://whatsapp.com/channel/0029VabS4KD8KMqeVXXmkG1D'
+global.yt = 'https://youtube.com/@xeronimus2801'
+global.ig = 'https://instagram.com/sebastianbedoya'
+global.md = 'https://github.com'
+global.paypal = 'https://paypal.me/sebastianbedoya'
+global.git = 'https://github.com'
+global.email = 'sebastianchue@hotmail.com'
+global.group = '' //Grupo ofc
+global.channel = ''
 global.linkSity = [yt, ig, md, paypal, git, channel, email]
 
 global.raiz = './'
